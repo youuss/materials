@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+
+
+# Editor directories and files
+.idea
+.vscode
+.history
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# lock
+pnpm-lock.yaml
